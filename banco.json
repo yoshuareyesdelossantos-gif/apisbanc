@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "nombre": "Banco Popular",
+    "personas": [
+      { "id": 1, "nombre": "Juan Pérez" },
+      { "id": 2, "nombre": "María García" }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Banreservas",
+    "personas": [
+      { "id": 1, "nombre": "José Almonte" }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Banco BHD",
+    "personas": [
+      { "id": 1, "nombre": "yoshua lo ma duro" }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Scotiabank",
+    "personas": []
+  },
+  {
+    "id": 5,
+    "nombre": "Banco Santa Cruz",
+    "personas": []
+  },
+  {
+    "id": 6,
+    "nombre": "Banco DEL NARCO",
+    "personas": []
+  }
+]
